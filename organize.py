@@ -4,7 +4,7 @@ import shutil
 import glob
 
 # Path to your Downloads folder
-downloads_folder = "/Users/aaronomale/downloads"
+downloads_folder = "/Users/your/downloads"
 
 # Dictionary mapping file extensions to folder names
 file_types = {
